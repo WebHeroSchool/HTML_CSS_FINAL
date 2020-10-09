@@ -130,7 +130,7 @@ body {
 }
 
 .main__button:hover {
-  opacity: 0.5;
+  opacity: .5;
   animation-name: move;
   animation-duration: 1s;
   animation-timing-function: ease-out;
@@ -166,7 +166,7 @@ body {
 }
 
 .main__link:hover {
-  opacity: 0.5;
+  opacity: .5;
   animation-name: move;
   animation-duration: 1s;
   animation-timing-function: ease-out;
@@ -275,7 +275,7 @@ body {
 .section2__link-lower2:hover,
 .section2__link-lower3:hover,
 .section2__link-lower4:hover {
-  opacity: 0.5;
+  opacity: .5;
 }
 
 .section2__link-lower5 {
@@ -316,7 +316,7 @@ body {
 }
 
 .footer__link:hover {
-  opacity: 0.5;
+  opacity: .5;
 }
 
 .footer__wrapper-contacts {
